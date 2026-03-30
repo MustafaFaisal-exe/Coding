@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /python/venv
+.idea/
+.vscode/
